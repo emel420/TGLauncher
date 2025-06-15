@@ -1,6 +1,0 @@
-
-*.pyc
-/build
-/dist
-/env
-upx.exe
